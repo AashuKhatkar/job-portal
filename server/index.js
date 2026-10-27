@@ -26,7 +26,7 @@ connectDB().then(() => {
     seedDatabase();
 });
 
-// Security Middleware (as required by Hitbullseye Project 10)
+// Security Middleware
 app.use(helmet({
     crossOriginResourcePolicy: { policy: "cross-origin" }
 }));

@@ -149,9 +149,6 @@ export const JobPortal = () => {
             {/* Hero Banner */}
             <div className="bg-gradient-to-r from-indigo-900 via-indigo-800 to-slate-900 rounded-3xl p-8 sm:p-12 text-white mb-10 shadow-xl relative overflow-hidden">
                 <div className="relative z-10 max-w-2xl">
-                    <span className="inline-block px-3 py-1 bg-indigo-500/30 text-indigo-200 rounded-full text-xs font-semibold tracking-wider uppercase mb-4 border border-indigo-400/30">
-                        Hitbullseye Project 10 • Verified Architecture
-                    </span>
                     <h1 className="text-3xl sm:text-5xl font-black tracking-tight leading-tight mb-4">
                         Discover & Track High-Impact Tech Careers
                     </h1>

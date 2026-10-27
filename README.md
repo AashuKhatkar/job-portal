@@ -1,8 +1,6 @@
-# Project 10: Job Portal & Applicant Tracking System (ATS)
+# HirePulse: Job Portal & Applicant Tracking System (ATS)
 
 A production-grade, two-sided MERN hiring platform with multi-role access control, faceted job search, server-enforced hiring state machine, secure access-controlled resume storage, and MongoDB aggregation analytics.
-
-Built according to the **Hitbullseye Project 10: Job Portal & Applicant Tracking System** specification.
 
 ---
 

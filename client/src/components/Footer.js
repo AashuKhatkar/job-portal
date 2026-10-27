@@ -29,7 +29,7 @@ export const Footer = () => {
                 </div>
 
                 <div className="text-slate-400">
-                    © {new Date().getFullYear()} HirePulse. Hitbullseye Project 10 Architecture.
+                    © {new Date().getFullYear()} HirePulse. All rights reserved.
                 </div>
             </div>
         </footer>

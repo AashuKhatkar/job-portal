@@ -22,7 +22,7 @@ export const DemoSwitcherBanner = () => {
                         Demo Evaluator
                     </span>
                     <span className="text-slate-300 hidden sm:inline">
-                        1-Click Role Switcher (Project 10 Specification):
+                        1-Click Role Switcher:
                     </span>
                 </div>
 
